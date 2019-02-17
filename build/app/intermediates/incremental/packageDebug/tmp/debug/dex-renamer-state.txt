@@ -1,0 +1,4 @@
+#Fri Feb 15 23:38:02 IST 2019
+base.0=C\:\\Users\\psrab\\Documents\\DART\\myapp\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
